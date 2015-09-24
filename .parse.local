@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "mytest"
+    },
+    "mytest": {
+      "applicationId": "TvxU1k4JWlVAVcc52PJOhMqoLJ56Z0b61Aq2Kkki"
+    }
+  }
+}
